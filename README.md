@@ -7,3 +7,6 @@ A command-line program for "Weakest Link". The game is based on the popular UK g
 1. Clone the repository.
 2. Open a terminal and navigate to the project directory.
 3. Run `python weakest_link.py` to start keeping track of the game.
+
+### Acknowledgements
+This program was created for JSoc's best event of 2023 :)
